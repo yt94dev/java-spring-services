@@ -21,6 +21,6 @@ public class ProjectConfig {
 
     @Bean
     Integer ten() {
-        return 10;
+        return 11;
     }
 }
