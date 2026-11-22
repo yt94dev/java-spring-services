@@ -12,14 +12,14 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.release>27</maven.compiler.release>
+    <maven.compiler.release>25</maven.compiler.release>
   </properties>
 
   <dependencies>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
-      <version>5.2.6.RELEASE</version>
+      <version>7.0.11</version>
     </dependency>
   </dependencies>
 </project>
